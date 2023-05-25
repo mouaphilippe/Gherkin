@@ -1,4 +1,4 @@
-Feature : MISE A JOUR DES STOCKS
+Feature: MISE_A_JOUR_DES_STOCKS
 
     Scenario Outline: Mise a jour d_une quantite d_un produit_SN
         
