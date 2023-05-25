@@ -28,9 +28,3 @@ Feature: MISE A JOUR DES STOCKS
         | produit             | quantite  |                                  
         | Clef USB            | 5         |
         | Clef USB            | -10       |      
-
-# US_MAG_010: En tant que magasinier, je souhaite gerer les stocks de façon a les mettre à jour.
-# Fait par Yann
-# Révisé par Corentin
-# Rev2 : Yann + Kerstin + Sylvain 03/05/2023
-# Validation PO :
