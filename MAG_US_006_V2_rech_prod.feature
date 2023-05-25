@@ -8,12 +8,6 @@ Then Le site NOZAMA affiche la  <reference>, le <nom du produit>, la <descriptio
 
 Examples:
 
-# Reference saisie par le magasinier
-
-    | reference  |      
-    | ref10n     |
-    | ref37-if   |
-
 # Resultat affiche par le systeme NOZAMA
 
     | reference  | nom du produit | description    | categorie       | image                | prix ht     | prix ttc    | taux tva | quantite | dimension  | disponibilite |
